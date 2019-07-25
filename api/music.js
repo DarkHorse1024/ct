@@ -1,4 +1,4 @@
 function auto(){
-    let kangge=77;
+    let kangge=100;
     return null;
 }
