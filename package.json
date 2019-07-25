@@ -1,0 +1,22 @@
+{
+  "name": "ct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkHorse1024/ct.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkHorse1024/ct/issues"
+  },
+  "homepage": "https://github.com/DarkHorse1024/ct#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
